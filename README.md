@@ -18,3 +18,17 @@ Bitácora de Proyecto Final
 ![alt text](image-2.png)
 2.3 verificamos que los RAIDS se hayan creado correctamente
 ![alt text](image-3.png)
+
+
+
+
+3. Creacion de Volumenes Lógicos
+
+3.1 Creacion de volumenes físicos (pv)
+![alt text](image-4.png)
+3.2 Creacion de Grupo de Volumenes (VG)
+![alt text](image-5.png)
+3.3 Creacion de Volumenes Logicos (lv)
+![alt text](image-6.png)
+3.4 Formateamos los volumenes logicos con el tipo de archivo ext4
+![alt text](image-7.png)
