@@ -69,3 +69,18 @@ Creacion de la imagen Nginx :
 ![alt text](image-20.png)
 
 
+5. Montar las imagenes creadas en los respectivos volumenes logicos
+
+5.1 
+Apache: 
+![alt text](image-21.png)
+
+5.2
+MySQL:
+
+
+5.3 
+Nginx:
+![alt text](image-22.png)
+
+
