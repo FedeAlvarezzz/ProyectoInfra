@@ -32,3 +32,40 @@ Bitácora de Proyecto Final
 ![alt text](image-6.png)
 3.4 Formateamos los volumenes logicos con el tipo de archivo ext4
 ![alt text](image-7.png)
+3.5 Crear los directorios para montar los volumenes logicos
+![alt text](image-8.png)
+3.6 Verificamos que los volumenes logicos se hayan creado correctamente 
+![alt text](image-9.png)
+3.7 Configurar para que los volumenes logicos se monten automaticamente al iniciar el sistema
+![alt text](image-10.png)
+
+
+
+4. Creacion de images Dockerfile
+
+4.1 Crear los directorios y Archivos Dockerfile correspondientes
+![alt text](image-11.png)
+4.2 Procedemos a configurar los Dockerfile con sus respectivas imagenes 
+
+4.2.1
+Apache:
+![alt text](image-13.png)
+Creacion de la imagen apache : 
+![alt text](image-14.png)
+
+4.2.2
+MySQL:
+![alt text](image-17.png)
+Creacion de la imagen MySQL :
+![alt text](image-16.png)
+
+4.2.3
+Nginx:
+![alt text](image-18.png)
+Creacion de la imagen Nginx :
+![alt text](image-19.png)
+
+4.3 Verificamos que las imagenes se hayan creado correctamente
+![alt text](image-20.png)
+
+
