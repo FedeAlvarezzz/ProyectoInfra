@@ -77,7 +77,7 @@ Apache:
 
 5.2
 MySQL:
-
+![alt text](image-23.png)
 
 5.3 
 Nginx:
