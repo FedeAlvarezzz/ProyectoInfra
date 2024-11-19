@@ -112,6 +112,10 @@ Verificacion de persistencia de los contenedores:
 ![alt text](image-35.png)
 
 
+Dockerfile: 
+Apache:
+
+
 
 
 
