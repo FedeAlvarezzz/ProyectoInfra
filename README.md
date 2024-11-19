@@ -85,7 +85,32 @@ Nginx:
 
 
 
-6. Test de contenedores :)
+6. Test de contenedores:
+
+6.1
+Apache:
+![alt text](image-24.png)
+![alt text](image-25.png)
+![alt text](image-27.png)
+![alt text](image-26.png)
+
+6.2
+Mysql:
+![alt text](image-28.png)
+![alt text](image-29.png)
+![alt text](image-30.png)
+
+6.3
+Nginx:
+![alt text](image-32.png)
+![alt text](image-31.png)
+![alt text](image-33.png)
+
+
+Verificacion de persistencia los contenedores: 
+![alt text](image-34.png)
+
+
 
 
 
