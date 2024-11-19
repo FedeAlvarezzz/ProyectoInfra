@@ -107,7 +107,7 @@ Nginx:
 ![alt text](image-33.png)
 
 
-Verificacion de persistencia los contenedores: 
+Verificacion de persistencia de los contenedores: 
 ![alt text](image-34.png)
 ![alt text](image-35.png)
 
